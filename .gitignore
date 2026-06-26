@@ -1,0 +1,16 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Local editor settings
+.idea/
+.vscode/
+
+# Exported builds
+/builds/
+/exports/
+*.apk
+*.aab
+*.exe
+*.pck
+*.zip
