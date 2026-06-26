@@ -5,6 +5,8 @@
 # Local editor settings
 .idea/
 .vscode/
+.codex/
+.agents/
 
 # Exported builds
 /builds/
